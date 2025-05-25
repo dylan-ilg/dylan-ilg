@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Dylan Ilg a computer science student at UNC Charlotte<br>👀 I’m interested in working on fun projects to start my career as a software engineer<br>🌱 I’m currently working on learning django, Python, and React. <br>💞️ I’m looking to collaborate on small projects<br>📫 Reach me at dilg@uncc.edu
+👋 Hi, I’m Dylan Ilg a computer science Graduate at UNC Charlotte<br>👀 I’m open to work as a software engineer<br>🌱 I’m currently working on learning Next.js, Three.js, Django. <br>💞️ I’m looking to collaborate on small projects<br>📫 Reach me at dilg@uncc.edu
 
 
 ## 🌐 Socials:
